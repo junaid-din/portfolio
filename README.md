@@ -5,9 +5,10 @@
 ## Education
 - BSc (Hons), Data Science | York St John University (_April 2025_)								       		
 
-<ins>Data Science</ins>
 ## Work Experience
 **Junior Data Scientist @ Unilever (_September 2021 - June 2025_)**
+
+<ins>Data Science</ins>
 - Worked with stakeholders to gather requirements and translate these into data tasks
 - Implemented Feature and Shape based Time Series Clustering Algorithms including K-Means, DBSCAN and Time Series K-Means with dynamic time warping and libraries tslearn and tsfresh to identify patterns in Trade Marketing Investments and extract the cluster representative. Communicated results in a presentation tailored to academic and stakeholder audiences
 - Analysed, reviewed and implemented ML models including Extra Trees and Gradient Boosted Trees for Time Series Forecasting and deployed these to production and made improvements to code
