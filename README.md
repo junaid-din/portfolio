@@ -44,7 +44,7 @@
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+[Publication](https://github.com/junaid-din/evolutionary-optimisation)
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
