@@ -59,15 +59,7 @@ This project explores the principles of evolutionary optimisation through the re
 
 ![](images/evolutionary optimisation.png)
 
-
-
-
-
-
-
-[Publication](https://github.com/junaid-din/evolutionary-optimisation)
-
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![](/images/evolutionary optimisation.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
