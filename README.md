@@ -14,7 +14,6 @@
 - Analysed, reviewed and implemented ML models including Extra Trees and Gradient Boosted Trees for Time Series Forecasting and deployed these to production and made improvements to code
 - Tested the viability of using the Elastic Net model over Tree based models using experiments with tuning of hyperparameters on MLflow and delivered technical presentation with results to team
 - Documented data, code and processes ensuring clarity, integrity, maintainability and reproducibility
-  
 <br>
 
 <ins>Exploratory Data Analysis</ins>
