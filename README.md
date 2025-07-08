@@ -24,14 +24,12 @@
 - Identified customer behavioural patterns with the potential to be turned into a promotional campaign
 - Worked with and provided mentorship to an Industrial Placement student in the completion of EDA
 - Presented EDA with compelling visualisations using data-driven storytelling to manager and stakeholders communicating insights articulately and providing actionable information
-  
 <br>
 
 <ins>Data Engineering</ins>
 - Automated manual extracts of macroeconomic data by extracting data from an API, cleaning and manipulating the data, coding an update process and creating an automated pipeline in Azure Data Factory forming an ETL process increasing efficiency and improving quality and scalability
 - Consulted with internal and external stakeholders ensuring high data quality and a robust pipeline
 - Tested code ensuring a resilient update process when pipeline is run
-  
 <br>
 
 <ins>Unilever Community</ins>
