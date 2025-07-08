@@ -59,18 +59,3 @@ This project explores the principles of evolutionary optimisation through the re
 
 ![Evolutionary Optimisation](images/evolutionary_optimisation.png)
 
-
-
-
-
-![](images/evolutionary optimisation.png)
-
-![](/images/evolutionary optimisation.png)
-
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
-
-![Bike Study](/assets/img/bike_study.jpeg)
-
-[Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
-
