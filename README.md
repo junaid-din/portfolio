@@ -15,7 +15,6 @@
 - Tested the viability of using the Elastic Net model over Tree based models using experiments with tuning of hyperparameters on MLflow and delivered technical presentation with results to team
 - Documented data, code and processes ensuring clarity, integrity, maintainability and reproducibility
 <br>
-
 <ins>Exploratory Data Analysis</ins>
 - Investigated impact of pricing, macroeconomics and commodities on sales volume and sales value 
 - Pre-processed data by collating, cleaning and manipulating large datasets using Python and 
