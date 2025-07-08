@@ -57,7 +57,7 @@ This project explores the principles of evolutionary optimisation through the re
 * Investigated how string length, probability and letters affect convergence.
 * Discussed real-world applications 
 
-![](/images/positions_by_state.png)
+![](/images/evolutionary optimisation.png)
 
 
 
