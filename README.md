@@ -12,7 +12,9 @@
 - Analysed, reviewed and implemented ML models including Extra Trees and Gradient Boosted Trees for Time Series Forecasting and deployed these to production and made improvements to code
 - Tested the viability of using the Elastic Net model over Tree based models using experiments with tuning of hyperparameters on MLflow and delivered technical presentation with results to team
 - Documented data, code and processes ensuring clarity, integrity, maintainability and reproducibility
+  
 <br>
+
 - Investigated impact of pricing, macroeconomics and commodities on sales volume and sales value 
 - Pre-processed data by collating, cleaning and manipulating large datasets using Python and 
 - Conducted correlation analysis identifying relationships between features and created data visualisations, plots and summary statistics, unlocking insights, patterns and trends
@@ -20,11 +22,15 @@
 - Identified customer behavioural patterns with the potential to be turned into a promotional campaign
 - Worked with and provided mentorship to an Industrial Placement student in the completion of EDA
 - Presented EDA with compelling visualisations using data-driven storytelling to manager and stakeholders communicating insights articulately and providing actionable information
+  
 <br>
+
 - Automated manual extracts of macroeconomic data by extracting data from an API, cleaning and manipulating the data, coding an update process and creating an automated pipeline in Azure Data Factory forming an ETL process increasing efficiency and improving quality and scalability
 - Consulted with internal and external stakeholders ensuring high data quality and a robust pipeline
 - Tested code ensuring a resilient update process when pipeline is run
+  
 <br>
+
 - Championed community building by leading Data Apprentice connects, producing monthly newsletters for over 100 Industrial Placement candidates, and supporting new joiners through buddying
 
 **Management Information Analyst  @ Domestic & General (_July 2018 - June 2019_)**
