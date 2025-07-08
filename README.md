@@ -5,6 +5,7 @@
 ## Education
 - BSc (Hons), Data Science | York St John University (_April 2025_)								       		
 
+<ins>Data Science</ins>
 ## Work Experience
 **Junior Data Scientist @ Unilever (_September 2021 - June 2025_)**
 - Worked with stakeholders to gather requirements and translate these into data tasks
@@ -15,6 +16,7 @@
   
 <br>
 
+<ins>Exploratory Data Analysis</ins>
 - Investigated impact of pricing, macroeconomics and commodities on sales volume and sales value 
 - Pre-processed data by collating, cleaning and manipulating large datasets using Python and 
 - Conducted correlation analysis identifying relationships between features and created data visualisations, plots and summary statistics, unlocking insights, patterns and trends
@@ -25,12 +27,14 @@
   
 <br>
 
+<ins>Data Engineering</ins>
 - Automated manual extracts of macroeconomic data by extracting data from an API, cleaning and manipulating the data, coding an update process and creating an automated pipeline in Azure Data Factory forming an ETL process increasing efficiency and improving quality and scalability
 - Consulted with internal and external stakeholders ensuring high data quality and a robust pipeline
 - Tested code ensuring a resilient update process when pipeline is run
   
 <br>
 
+<ins>Unilever Community</ins>
 - Championed community building by leading Data Apprentice connects, producing monthly newsletters for over 100 Industrial Placement candidates, and supporting new joiners through buddying
 
 **Management Information Analyst  @ Domestic & General (_July 2018 - June 2019_)**
