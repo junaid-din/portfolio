@@ -57,6 +57,11 @@ This project explores the principles of evolutionary optimisation through the re
 * Investigated how string length, probability and letters affect convergence.
 * Discussed real-world applications 
 
+![Convergence Plot](images/evolutionary optimisation.png)
+
+
+
+
 ![](images/evolutionary optimisation.png)
 
 ![](/images/evolutionary optimisation.png)
