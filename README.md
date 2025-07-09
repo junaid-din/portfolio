@@ -69,8 +69,11 @@ This project is designed to help HR professionals better understand the underlyi
 * Conducted exploratory data analysis (EDA) to uncover key patterns and insights related to employee attrition, including distributions, correlations, and trends across variables like age, department, job role, satisfaction levels and more
 * Developed an interactive Excel dashboard to provide HR teams with clear, visual insights into employee attrition trends and risk factors, supporting strategic decision-making around workforce planning and retention
 
-<img src="images/attrition_eda_1_of_2.png" width="300" height="200">
-<img src="images/attrition_eda_2_of_2.png" width="300" height="200">
+<p align="center">
+  <img src="images/attrition_eda_1_of_2.png" width="350">
+  <img src="images/attrition_eda_2_of_2.png" width="350">
+</p>
+
 
 
 
