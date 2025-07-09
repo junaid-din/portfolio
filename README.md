@@ -43,7 +43,7 @@
 
 
 # Projects
-## [Evolutionary Optimisation Project](https://github.com/junaid-din/evolutionary-optimisation) 
+## [Evolutionary Optimisation](https://github.com/junaid-din/evolutionary-optimisation) 
 
 This project explores the principles of evolutionary optimisation through the reconstruction of a target text sequence—referred to as the master sequence—using random generation and mutation-based evolution. The goal is to mutate a random text sequence through corruption until it is indistinguishable from the original and then take the corrupted text, and have this evolve over generations so that they converge toward athe original. This simulates how optimisation algorithms can refine solutions over time, inspired by biological evolution.
 
@@ -60,7 +60,7 @@ This project explores the principles of evolutionary optimisation through the re
 ![Evolutionary Optimisation](images/evolutionary_optimisation.png)
 
 
-## [Employee Attritiion Analysis and Excel Dashboard](https://github.com/junaid-din/employee-attrition-analysis-and-dashboard) 
+## [Employee Attrition Analysis and Excel Dashboard](https://github.com/junaid-din/employee-attrition-analysis-and-dashboard) 
 
 This project is designed to help HR professionals better understand the underlying factors that contribute to employee attrition within an organization. High attrition rates can disrupt team dynamics, increase recruitment and training costs, and impact overall productivity. By analyzing employee data, the project aims to identify key trends and risk indicators such as job role, satisfaction levels, department etc. that may influence an employee’s likelihood to leave. These insights can support HR in developing targeted retention strategies, improving employee engagement, and proactively addressing potential issues before they lead to turnover offering HR teams a practical tool for monitoring attrition patterns and making informed, data-driven decisions.
 
