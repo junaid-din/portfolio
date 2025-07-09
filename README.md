@@ -43,7 +43,7 @@
 
 
 # Projects
-## [Evolutionary Optimisation](https://github.com/junaid-din/evolutionary-optimisation) 
+## [1. Evolutionary Optimisation](https://github.com/junaid-din/evolutionary-optimisation) 
 
 This project explores the principles of evolutionary optimisation through the reconstruction of a target text sequence—referred to as the master sequence—using random generation and mutation-based evolution. The goal is to mutate a random text sequence through corruption until it is indistinguishable from the original and then take the corrupted text, and have this evolve over generations so that they converge toward athe original. This simulates how optimisation algorithms can refine solutions over time, inspired by biological evolution.
 
@@ -62,7 +62,7 @@ Tasks completed:
 ![Evolutionary Optimisation](images/evolutionary_optimisation.png)
 
 
-## [Employee Attrition Analysis and Excel Dashboard](https://github.com/junaid-din/employee-attrition-analysis-and-dashboard) 
+## [2. Employee Attrition Analysis and Excel Dashboard](https://github.com/junaid-din/employee-attrition-analysis-and-dashboard) 
 
 This project is designed to help HR professionals better understand the underlying factors that contribute to employee attrition within an organization. High attrition rates can disrupt team dynamics, increase recruitment and training costs, and impact overall productivity. By analyzing employee data, the project aims to identify key trends and risk indicators such as job role, satisfaction levels, department etc. that may influence an employee’s likelihood to leave. These insights can support HR in developing targeted retention strategies, improving employee engagement, and proactively addressing potential issues before they lead to turnover offering HR teams a practical tool for monitoring attrition patterns and making informed, data-driven decisions.
 
@@ -78,7 +78,7 @@ Tasks completed:
   <img src="images/attrition_eda_2_of_2.png" style="display: inline-block; width: 350px; height: 250px;">
 </div>
 
-## [Modelling and Statitical Analysis](https://github.com/junaid-din/modelling-and-statistical-analysis) 
+## [3. Modelling and Statitical Analysis](https://github.com/junaid-din/modelling-and-statistical-analysis) 
 
 This Project conducts a comprehensive statistical analysis by applying a variety of statistical modelling and inference techniques using Python. The analysis involves simulating data from known distributions, visualizing them, conducting hypothesis tests, fitting statistical models, and evaluating their performance. It uses libraries like scipy, statsmodels, matplotlib, and seaborn.
 
@@ -97,7 +97,7 @@ Tasks completed:
   <img src="images/ols_regression.png" style="display: inline-block; width: 350px; height: 250px;">
 </div>
 
-## [Creation of Bookshelfia Database and Development of SQL Queries](https://github.com/junaid-din/databases) 
+## [4. Creation of Bookshelfia Database and Development of SQL Queries](https://github.com/junaid-din/databases) 
 
 This project analyzing, designing, and implementing a relational database system for Bookshelfia, an online bookstore that sells books, magazines, and audiobooks. The goal was to support inventory management, order processing, and customer transactions. I acted in the role of a database designer, and developer, applying best practices in relational database design, normalising the database to 3rd Normal Form (3NF). The normalisation steps of the data are shown in a separate Excel workbook called 'Normalisation steps'. I also developed SQL scripts to query the database. The project culminated in a fully functional database prototype, including a Entity-Relationship Diagram (ERD), populated tables, and a suite of analytical SQL queries.
 
@@ -112,7 +112,7 @@ Tasks completed:
 
 ![ERD](images/Bookshelfia_Database_ERD.jpeg)
 
-## [Creating the UNO Card Game in Python using OOP](https://github.com/junaid-din/creating-the-uno-card-game-in-python-using-oop) 
+## [5. Creating the UNO Card Game in Python using OOP](https://github.com/junaid-din/creating-the-uno-card-game-in-python-using-oop) 
 
 This project implements a fully functional UNO card game for two players using Object-Oriented Programming (OOP) in Python within a Jupyter Notebook. The design emphasizes clean structure, encapsulation, inheritance, and other OOP principles, while simulating the core rules and mechanics of a traditional UNO game. The implementation includes support for house rules, persistent game state saving and robust validation. 
 
@@ -126,7 +126,7 @@ This project implements a fully functional UNO card game for two players using O
 
 ![class](images/card_class.png)
 
-## [Heart Disease Prediction Using Machine Learning](https://github.com/junaid-din/machine-learning) 
+## [6. Heart Disease Prediction Using Machine Learning](https://github.com/junaid-din/machine-learning) 
 
 This project applies machine learning techniques to predict the presence of heart disease using a real-world dataset sourced from Kaggle. The goal is to support early diagnosis and intervention for at-risk individuals, potentially reducing premature deaths due to cardiovascular disease. Several standard classification models were implemented, alongside a novel hybrid ensemble model using majority voting. The study showed that ensemble models generally outperform individual classifiers in accuracy and recall. Emphasis was placed on data quality, pre-processing, feature engineering, and model evaluation using clinically relevant metrics.
 
