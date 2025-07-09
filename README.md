@@ -141,8 +141,8 @@ Tasks completed:
 * Evaluated model performance using metrics such as accuracy, recall and confusion matrices
 
 <div style="text-align: center;">
-  <img src="images/ml_1.png" style="display: inline-block; width: 350px; height: 250px; margin-right: 10px;">
-  <img src="images/ml_2.png" style="display: inline-block; width: 350px; height: 250px;">
+  <img src="images/ml_1.jpg" style="display: inline-block; width: 350px; height: 250px; margin-right: 10px;">
+  <img src="images/ml_2.jpg" style="display: inline-block; width: 350px; height: 250px;">
 </div>
 
 ## [7. Dynamics of Combinatorial Threshold-Linear Networks (CTLNs)](https://github.com/junaid-din/dynamics-of-linear-threshold-neural-networks) 
