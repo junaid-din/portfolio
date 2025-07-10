@@ -18,7 +18,7 @@ BSc (Hons) Data Science | York St John University (_April 2025_)
 
 <ins>Exploratory Data Analysis</ins>
 - Investigated impact of pricing, macroeconomics and commodities on sales volume and sales value 
-- Pre-processed data by collating, cleaning and manipulating large datasets using Python and 
+- Pre-processed data by collating, cleaning and manipulating large datasets using Python and PySpark
 - Conducted correlation analysis identifying relationships between features and created data visualisations, plots and summary statistics, unlocking insights, patterns and trends
 - Researched latest, real-world trends and used these to inform analysis
 - Identified customer behavioural patterns with the potential to be turned into a promotional campaign
