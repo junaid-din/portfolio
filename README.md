@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Enthusiast
 
 #### Technical Skills: Data Analysis, Data Visualisation, Databricks, Excel, Machine Learning, Microsoft Azure, Microsoft Office, Power BI, PySpark, Python, SQL
 
