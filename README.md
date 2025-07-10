@@ -3,7 +3,7 @@
 #### Technical Skills: Data Analysis, Data Visualisation, Databricks, Excel, Machine Learning, Microsoft Azure, Microsoft Office, Power BI, PySpark, Python, SQL
 
 ## Education
-- BSc (Hons), Data Science | York St John University (_April 2025_)								       		
+BSc (Hons) Data Science | York St John University (_April 2025_)								       		
 
 ## Work Experience
 **Junior Data Scientist @ Unilever (_September 2021 - June 2025_)**
