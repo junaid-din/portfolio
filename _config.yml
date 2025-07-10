@@ -1,6 +1,6 @@
 title: Junaid Din
 logo: /images/Profile Pic.jpg
-description: Portfolio projects highlighted in blue. Click the blue links to access the GitHub Repositories for the projects shown.
+description: Portfolio projects highlighted in blue. Click on a blue link to access the GitHub repository for a specific project.
 #show_downloads: true
 theme: jekyll-theme-minimal
 github:
