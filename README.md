@@ -128,7 +128,7 @@ Tasks completed:
   <img src="images/cp.png" style="display: inline-block; width: 350px; height: 250px;">
 </div>
 
-## [6. Statitical Modelling and Analysis](https://github.com/junaid-din/modelling-and-statistical-analysis) 
+## [6. Statistical Modelling and Analysis](https://github.com/junaid-din/modelling-and-statistical-analysis) 
 
 This Project conducts a comprehensive statistical analysis by applying a variety of statistical modelling and inference techniques using Python. The analysis involves simulating data from known distributions, visualizing them, conducting hypothesis tests, fitting statistical models (linear and logistic regression), checking assumptions and evaluating their performance.
 
