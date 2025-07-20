@@ -4,10 +4,11 @@
 
 ## Education
 BSc (Hons) Data Science | York St John University (_April 2025_)	
+
 First Class Honours
 
 ## Work Experience
-**Junior Data Scientist @ Unilever (_September 2021 - June 2025_)**
+**Data Science Degree Apprentice @ Unilever (_September 2021 - June 2025_)**
 
 <ins>Data Science</ins>
 - Worked with stakeholders to gather requirements and translate these into data tasks
